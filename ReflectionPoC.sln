@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kk", "kk\kk.csproj", "{2E3DF5C2-8A38-4A03-86D7-8D463C917E47}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionPoC.Test", "ReflectionPoC.Test\ReflectionPoC.Test.csproj", "{2E3DF5C2-8A38-4A03-86D7-8D463C917E47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionPoC", "ReflectionPoC\ReflectionPoC.csproj", "{6867E0B1-7C9B-4595-9F83-3DAAA15F5CEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2E3DF5C2-8A38-4A03-86D7-8D463C917E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E3DF5C2-8A38-4A03-86D7-8D463C917E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E3DF5C2-8A38-4A03-86D7-8D463C917E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6867E0B1-7C9B-4595-9F83-3DAAA15F5CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6867E0B1-7C9B-4595-9F83-3DAAA15F5CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6867E0B1-7C9B-4595-9F83-3DAAA15F5CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6867E0B1-7C9B-4595-9F83-3DAAA15F5CEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
